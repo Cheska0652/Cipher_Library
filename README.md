@@ -1,2 +1,2 @@
 # Cipher_Library
-A portfolio of my cryptography challenges.
+A collection of cryptography challenges, cipher experiments, and cryptanalysis write-ups.
